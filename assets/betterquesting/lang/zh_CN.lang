@@ -46,7 +46,7 @@ betterquesting.btn.party_leave=离开
 betterquesting.btn.party_invite=邀请
 betterquesting.btn.party_kick=移除
 betterquesting.btn.party_join=加入
-betterquesting.btn.party_share_lives=Share Lives
+betterquesting.btn.party_share_lives=分享生命
 betterquesting.btn.party_share_loot=Single Reward
 
 betterquesting.home.exit=退出
@@ -90,7 +90,7 @@ betterquesting.notice.complete=任务已完成
 betterquesting.notice.update=任务已更新
 betterquesting.notice.unlock=任务已解锁
 
-betterquesting.msg.heart_disabled=Hardcore lives are not enabled. Use "/bq_admin hardcore" to toggle it
+betterquesting.msg.heart_disabled=极限生存模式已被禁用。可使用 "/bq_admin hardcore"指令开启。
 
 key.betterquesting.quests=打开任务
 key.betterquesting.party=队伍成员
@@ -101,9 +101,9 @@ itemGroup.betterquesting=Better Questing
 fluid.betterquesting.placeholder=Placeholder
 
 item.betterquesting.placeholder.name=Item Placeholder
-item.betterquesting.extra_life.full.name=Extra Life
-item.betterquesting.extra_life.half.name=Half Heart
-item.betterquesting.extra_life.quarter.name=Quarter Heart
+item.betterquesting.extra_life.full.name=额外生命
+item.betterquesting.extra_life.half.name=二分之一颗心
+item.betterquesting.extra_life.quarter.name=四分之一颗心
 item.betterquesting.guide.name=Better Questing Starter Guide
 
 tile.betterquesting.submit_station.name=Object Submission Station (OSS)
