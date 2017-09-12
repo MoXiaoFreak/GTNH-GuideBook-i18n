@@ -919,19 +919,19 @@ gtnh.quest228.desc=By sacrificing some blood to the water spirits, they'll grant
 
 #Quest_229.Infused stones
 gtnh.quest229.name=蕴魔石 (Infused stones)
-gtnh.quest229.desc=这整个地方都充斥着魔法。不管你看向哪里，它都无处不在。你很好奇这些寻常的石头浸于浓郁的魔力中如此漫长一段时间后会发生什么。或许又到了挖矿时间了？
+gtnh.quest229.desc=这里整个地方都充斥着魔法。不管你看向哪里，魔力无处不在。你很好奇这些寻常的石头浸于如此浓郁的魔力中如此漫长一段时间后会发生什么。或许又到了挖矿时间了？
 
 #Quest_230.Your first wand
 gtnh.quest230.name=你的第一根法杖 (Your first wand)
 gtnh.quest230.desc=你确信这个地方会给你你想要的一切答案！想要继续下去，你需要某种东西解决这种叫"vis"的魔法能量。我想是时候做你的第一根法杖了。
 
 #Quest_231.Tome of knowledge
-gtnh.quest231.name=Tome of knowledge
-gtnh.quest231.desc=All the things you've discovered so far, you need to write them down. But you are lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!
+gtnh.quest231.name=知识手册(Tome of knowledge)
+gtnh.quest231.desc=到现在为止你所发现的所有知识，你需要把它们记下来。但是你太懒惰了：既然你有一根法杖，为什么不用一种魔法的方式去"记下"知识呢？ 你想用法杖给一本书注入魔力以使其能够追踪你的研究进度...你应该对着书架试试看！
 
 #Quest_232.Improving your wand
 gtnh.quest232.name=提升你的法杖 (Improving your wand)
-gtnh.quest232.desc=你的法杖在存储和释放魔力的时候表现得很好，就像你所期待的那样。然而，这些铁杖端...太弱了。如果你稍微一不注意，就可能伤害到灵气节点。或许你应该试着用由一种更昂贵的材料制成的杖端来提升你的法杖。比如...金，或许吧？
+gtnh.quest232.desc=你的法杖在存储和释放魔力的时候表现优异，就像你所期待的那样。然而，这些铁杖端...太弱了。如果你稍微一不注意，就可能伤害到灵气节点。或许你应该试着用由一种更昂贵的材料制成的杖端来提升你的法杖。比如...金，或许吧？
 
 #Quest_233.Getting shards
 gtnh.quest233.name=获取碎片 (Getting shards)
@@ -3840,7 +3840,7 @@ gtnh.line9.name=林业和农场
 gtnh.line9.desc=自动化农场和更多...
 
 #Novice Thaumaturge
-gtnh.line10.name=新手神秘使
+gtnh.line10.name=魔法学徒
 gtnh.line10.desc=魔法的奥秘皆藏于此。卓越的成就，但也需要大量的工作。我将成为你的导师。照我的指导，你将成为一位伟大的奥术师，就像我。
 
 #Adept Thaumaturgy
@@ -3893,10 +3893,10 @@ gtnh.line22.desc=当普通魔法不够的时候，召唤恶魔来服侍你！虽
 
 #More blood, more stuff
 gtnh.line23.name=更多鲜血，更多材料
-gtnh.line23.desc=高等血魔法？我的静脉感觉很奇怪...
+gtnh.line23.desc=高等血魔法？我的静脉感觉很不适...
 
 #They are coming...
-gtnh.line24.name=他们来了...
+gtnh.line24.name=邪恶将至...
 gtnh.line24.desc=我召唤的灵魂...超越了恶魔入侵。真正堕入黑魔法！
 
 #Kill all the things
