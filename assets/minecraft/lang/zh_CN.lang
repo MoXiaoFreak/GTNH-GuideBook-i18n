@@ -926,8 +926,8 @@ gtnh.quest230.name=你的第一根法杖 (Your first wand)
 gtnh.quest230.desc=你确信这个地方会给你你想要的一切答案！想要继续下去，你需要某种东西解决这种叫"vis"的魔法能量。我想是时候做你的第一根法杖了。
 
 #Quest_231.Tome of knowledge
-gtnh.quest231.name=Tome of knowledge
-gtnh.quest231.desc=All the things you've discovered so far, you need to write them down. But you are lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!
+gtnh.quest231.name=知识手册 (Tome of knowledge)
+gtnh.quest231.desc=到现在为止你所发现的所有知识，你需要把它们记下来。但是你太懒惰了：既然你有一根法杖，为什么不用一种魔法的方式去"记下"知识呢？ 你想用法杖给一本书注入魔力以使其能够追踪你的研究进度...你应该对着书架试试看！
 
 #Quest_232.Improving your wand
 gtnh.quest232.name=提升你的法杖 (Improving your wand)
@@ -938,7 +938,7 @@ gtnh.quest233.name=获取碎片 (Getting shards)
 gtnh.quest233.desc=现在你已经找到所有六种蕴魔石的原始形态了，你需要将它们打碎以获取碎片。最简单的方法就是，将这些石头扔进你的锻造锤里。
 
 #Quest_234.A "greater" wand
-gtnh.quest234.name=A "greater" wand
+gtnh.quest234.name=一根"宏伟的"法杖(A "greater" wand)
 gtnh.quest234.desc=While doing all your research and mining of these infused stones, you had an idea how to actually use the wood of a Greatwood tree to make a new wand. Actually, it turned out to be pretty simple, but you lacked one important thing back then: vis!. The vis makes sure the wood doesn't lose it's magical conductivity while forming the rod.
 
 #Quest_235.Better screws
